@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="10. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="11. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="12. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="13. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="14. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="15. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="16. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="17. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="18. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="19. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="20. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="21. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="22. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="23. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="24. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="25. " />
+
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="26. " />
+
+    </LinearLayout>
+
+</ScrollView>
